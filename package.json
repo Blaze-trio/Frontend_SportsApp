@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@types/node": "^24.0.13"
+  },
+  "dependencies": {
+    "@radix-ui/react-label": "^2.1.7"
   }
 }
