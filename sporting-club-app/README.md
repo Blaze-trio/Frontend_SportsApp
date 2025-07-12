@@ -4,9 +4,7 @@ A modern, responsive sporting club management application built with React, Type
 
 ## 🚀 Live Demo
 
-**[View Live App](https://YOUR_GITHUB_USERNAME.github.io/Frontend_SportsApp/)**
-
-*Replace YOUR_GITHUB_USERNAME with your actual GitHub username*
+**[View Live App](https://Blaze-trio.github.io/Frontend_SportsApp/)**
 
 ## ✨ Features
 
@@ -50,7 +48,7 @@ The app features a clean, modern interface with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Frontend_SportsApp.git
+git clone https://github.com/Blaze-trio/Frontend_SportsApp.git
 cd Frontend_SportsApp/sporting-club-app
 ```
 
@@ -74,7 +72,7 @@ npm run build
 
 ### Deploying to GitHub Pages
 
-1. Update your GitHub username in `package.json` and this README
+1. Update your GitHub username in `package.json` and this README ✅ (Done!)
 2. Push your code to GitHub
 3. Run the deployment command:
 ```bash
@@ -129,7 +127,7 @@ sporting-club-app/
 
 1. In `package.json`, update the homepage URL:
 ```json
-"homepage": "https://YOUR_GITHUB_USERNAME.github.io/Frontend_SportsApp"
+"homepage": "https://Blaze-trio.github.io/Frontend_SportsApp"
 ```
 
 2. The app is configured with the correct base path for GitHub Pages in `vite.config.ts`
